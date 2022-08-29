@@ -11,7 +11,7 @@
 |   Fr. Setp 16  |                |            |               |
 |   Fr. Setp 23  |                |            |               |
 |   Fr. Setp 30 |                |            |               |
-|   Fr. Oct 7 |                |            |               |
+|   Fr. Oct 7 |Harold                |   Longitudinal Analysis of Multi-Omic Data         |               |
 |   Fr. Oct 14 |                |            |               |   
 |   Fr. Oct 21 |                |            |               |   
 |   Fr. Oct 28 |                |            |               |   
@@ -31,6 +31,7 @@ Some topics we may focus on (in between parenthesis people that may contribute).
   - Mapping regions of similarity and dissimilarity between ethnic groups (Alexa, Ana, Gustavo, could be two presentations, one on the methods, the other one a proposal we are developing)
   - Polygenic prediction for  under-represented groups using multi-ethnic data (Alexa & ? This could be two presentations, first this [article](https://pubmed.ncbi.nlm.nih.gov/34995502/), follwoed by a presentation by Alexa on her simulation)
   - Multi-trait BGLR R-package (Paulino, based on his recently published [article](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac112/6655691)).
+  - Longitudinal analysis of multi-omics data (Harold?)
   - Integrating DNA sequences and environmental data to simulate complex phenotypes (Marco, based on the work going on in the NSF-funded grant).
   - Prediction of genetic merit for feed efficiency using infrared milk spectra data (Hugo, based on the manuscript he is working on).
   - Quantitative Genetics Perspective, The legacy of Bill Hill. This very interesting [article](https://pubmed.ncbi.nlm.nih.gov/35817969/) goes over important contributions made by Bill Hill to the field of quantiative genetics. Also a very nice overview of important topics we work on. This is a good chocie for someone without a project. Worth reading for everyone.

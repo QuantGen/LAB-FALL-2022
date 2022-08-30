@@ -7,9 +7,9 @@
 
 | Date             | Presenter(s)     |  Topic(s)        |  Materials    |
 | ---------------  | ---------------- | ---------------- | ------------- |
-|   Fr. Setp 9  |                |            |               |
-|   Fr. Setp 16  |                |            |               |
-|   Fr. Setp 23  |                |            |               |
+|   Fr. Setp 9  |         Alexa       |   Introduction to trans-ancestral mapping and prediction     |      [Prive et al.](https://pubmed.ncbi.nlm.nih.gov/34995502/)         |
+|   Fr. Setp 16  |         Ana       |            |               |
+|   Fr. Setp 23  |       Gustavo/Alexa         |    Methods and preliminary results: Trans-ancestral mapping and prediction        |              |
 |   Fr. Setp 30 |                |            |               |
 |   Fr. Oct 7 |Harold                |   Longitudinal Analysis of Multi-Omic Data         |               |
 |   Fr. Oct 14 |                |            |               |   

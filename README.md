@@ -7,10 +7,10 @@
 
 | Date             | Presenter(s)     |  Topic(s)        |  Materials    |
 | ---------------  | ---------------- | ---------------- | ------------- |
-|   Fr. Sept 9  |         Alexa       |   Introduction to trans-ancestral mapping and prediction     |      [Prive et al.](https://pubmed.ncbi.nlm.nih.gov/34995502/)         |
-|   Fr. Sept 16  |         Ana       |       Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations     |       [Wang et al.](https://pubmed.ncbi.nlm.nih.gov/32737319/)        |
-|   Fr. Sept 23  |       Gustavo/Alexa         |    Methods and preliminary results: Trans-ancestral mapping and prediction        |              |
-|   Fr. Sept 30 |                |            |               |
+|   Fr. Sept 9 |        Ana/Alexa/Marco        |   Introduction to the Quantgen group         |               |
+|   Fr. Sept 16  |         Alexa       |   Introduction to trans-ancestral mapping and prediction     |      [Prive et al.](https://pubmed.ncbi.nlm.nih.gov/34995502/)         |
+|   Fr. Sept 23  |         Ana       |       Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations     |       [Wang et al.](https://pubmed.ncbi.nlm.nih.gov/32737319/)        |
+|   Fr. Sept 30  |       Gustavo/Alexa         |    Methods and preliminary results: Trans-ancestral mapping and prediction        |              |
 |   Fr. Oct 7 |Harold                |   Longitudinal Analysis of Multi-Omic Data         |               |
 |   Fr. Oct 14 |                |            |               |   
 |   Fr. Oct 21 |                |            |               |   

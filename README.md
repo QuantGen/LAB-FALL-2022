@@ -14,8 +14,8 @@
 |   Fr. Oct 7 |        Kyle       |      Analysis of polygenic risk score usage and performance in diverse human populations     |     [Duncan et al.](https://www.nature.com/articles/s41467-019-11112-0)         |
 |   Fr. Oct 14 |Harold                |   Longitudinal Analysis of Multi-Omic Data         |               |
 |   Fr. Oct 21 |                |            |               |   
-|   Fr. Oct 28 |   Guanqi             |            |               |   
-|   Fr. Nov 4 |                |            |               |   
+|   Fr. Oct 28 |                |            |               |   
+|   Fr. Nov 4 |     Guanqi      |            | Metabomics-paper TBD              |   
 |   Fr. Nov 11 |                |            |               |   
 |   Fr. Nov 18 |                |            |               |   
 |   Fr. Nov 25 |    No meeting, Thanksgiving Break             |   

@@ -19,7 +19,7 @@
 |   Fr. Nov 11 |                |            |               |   
 |   Fr. Nov 18 |                |            |               |   
 |   Fr. Nov 25 |    No meeting, Thanksgiving Break             |   
-|   Fr. Dec 2 |    Paulino     |   Polygenic prediction via Bayesian regression and continuous shrinkage priors |      Ge et al. (2022)         | 
+|   Fr. Dec 2 |    Paulino     |   Polygenic prediction via Bayesian regression and continuous shrinkage priors |      [Ge et al. (2022)](https://www.nature.com/articles/s41467-019-09718-5)         | 
 |   Fr. Dec 9 |                |            |               | 
 |   Fr. Dec 16 |           No Meeting     | 
 

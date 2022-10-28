@@ -15,7 +15,7 @@
 |   Fr. Oct 14 |                |            |               |
 |   Fr. Oct 21 |                |            |               |   
 |   Fr. Oct 28 |   Harold       |   Longitudinal Analysis of Multi-Omic Data         |               |   
-|   Fr. Nov 4 |     Guanqi      |            | Metabomics-paper TBD              |   
+|   Fr. Nov 4 |     Guanqi      |            | [Analysis of metabolomic data: tools, current strategies and future challenges for omics data integration](https://pubmed.ncbi.nlm.nih.gov/27075479/)              |   
 |   Fr. Nov 11 |                |            |               |   
 |   Fr. Nov 18 |                |            |               |   
 |   Fr. Nov 25 |    No meeting, Thanksgiving Break             |   

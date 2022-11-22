@@ -15,9 +15,9 @@
 |   Fr. Oct 14 |                |            |               |
 |   Fr. Oct 21 |                |            |               |   
 |   Fr. Oct 28 |   Harold       |   Longitudinal Analysis of Multi-Omic Data         |               |   
-|   Fr. Nov 4 |     Guanqi      |    Analysis of metabolomic data: tools, current strategies and future challenges for omics data integration        | [Cambiaghi et al.](https://pubmed.ncbi.nlm.nih.gov/27075479/)              |   
+|   Fr. Nov 4 |     Guanqi      |   Analysis of metabolomic data: tools, current strategies and future challenges for omics data integration        | [Cambiaghi et al.](https://pubmed.ncbi.nlm.nih.gov/27075479/)              |   
 |   Fr. Nov 11 |                |            |               |   
-|   Fr. Nov 18 |                |            |               |   
+|   Fr. Nov 18 |  Hugo          |Estimates of genetic parameters for feeding behavior traits and their associations with feed efficiency in Holstein cows          | [article](https://pubmed.ncbi.nlm.nih.gov/35863925/)            |   
 |   Fr. Nov 25 |    No meeting, Thanksgiving Break             |   
 |   Fr. Dec 2 |    Paulino     |   Polygenic prediction via Bayesian regression and continuous shrinkage priors |      [Ge et al. (2022)](https://www.nature.com/articles/s41467-019-09718-5)         | 
 |   Fr. Dec 9 |                |            |               | 
